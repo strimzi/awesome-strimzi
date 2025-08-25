@@ -3,7 +3,7 @@
 
 # Awesome Strimzi
 
-A curated collection of **community-created** resources for [Strimzi](https://strimzi.io/)—Apache Kafka on Kubernetes. This repository hosts officially maintained community contributions, including blog posts, tutorials, tools, SDKs, demos, and more.
+A curated collection of **community-created** resources for [Strimzi](https://strimzi.io/)—Apache Kafka on Kubernetes. This repository hosts community contributions, including blog posts, tutorials, tools, SDKs, demos, and more.
 
 We use the popular **Awesome list** format to showcase valuable content created by contributors outside the official Strimzi organization. This gives visibility to community efforts while ensuring relevancy and quality.
 
