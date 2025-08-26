@@ -15,17 +15,17 @@ Please follow these guidelines to ensure high-quality, relevant contributions.
 Before adding your resource, please select the most appropriate category in the `README.md` file:
 
 - **Official Resources** - Links to Strimzi's official documentation and repositories (for quick reference).
-- **Getting Started** - Onboarding materials for new users, i.e. link to Strimzi quick start guide and blog posts introducing Strimzi basics.
+- **Getting Started** - Onboarding materials for new users, such as links to the Strimzi quickstart guide and blog posts introducing Strimzi basics.
 - **Articles & Blog Posts** - Community-written articles, tutorials, and technical deep-dives.
 - **Talks & Presentations** - Conference talks, webinars, and meetups.
-- **Libraries & SDKs** - Community-developed code to help work with Strimzi/Kafka.
+- **Libraries & SDKs** - Community-developed code to help work with Strimzi and Kafka.
 - **Tools & Utilities** - CLI tools, monitoring dashboards, configuration helpers.
-- **Integrations** - How Strimzi works with other platforms or frameworks.
-- **Community Examples & Demos** - Real-world Strimzi setups, PoCs, sample projects.
+- **Integrations** - How Strimzi works with other platforms and frameworks.
+- **Community Examples & Demos** - Real-world Strimzi setups, PoCs, and sample projects.
 - **Learning & Tutorials** - Structured learning resources, workshops, and self-paced guides.
 
 Choose the category that best matches your resource's primary purpose.
-If your resource could fit multiple categories, select the one that represents its main value to the community.
+If your resource could fit multiple categories, select the one that best represents its main value to the community.
 
 ## Submission Format
 

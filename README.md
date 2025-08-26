@@ -11,19 +11,19 @@ We use the popular **Awesome list** format to showcase valuable content created 
 
 - [Official Resources](#official-resources)  
 - [Getting Started](#getting-started)  
-- [Articles & Blog Posts](#articles--blog-posts)  
-- [Talks & Presentations](#talks--presentations)  
-- [Libraries & SDKs](#libraries--sdks)  
-- [Tools & Utilities](#tools--utilities)  
+- [Articles and Blog Posts](#articles-and-blog-posts)  
+- [Talks and Presentations](#talks-and-presentations)  
+- [Libraries and SDKs](#libraries-and-sdks)  
+- [Tools and Utilities](#tools-and-utilities)  
 - [Integrations](#integrations)  
-- [Community Examples & Demos](#community-examples--demos)  
-- [Learning & Tutorials](#learning--tutorials)
+- [Community Examples and Demos](#community-examples-and-demos)  
+- [Learning and Tutorials](#learning-and-tutorials)
 
 ### Official Resources
 
 Links to official Strimzi documentation and repositories:
 
-- *[Strimzi Documentation](https://strimzi.io/docs/)* - The official Strimzi documentation.
+- *[Strimzi Documentation](https://strimzi.io/documentation/)* - The official Strimzi documentation.
 - *[Strimzi GitHub Organization](https://github.com/strimzi)* - The GitHub Strimzi organization.
 
 ### Getting Started
@@ -32,45 +32,45 @@ Beginner-friendly guides and quickstart materials:
 
 - *[Strimzi Quick Start Guide](https://strimzi.io/quickstarts/)* – A walkthrough to deploy and start using Strimzi on Kubernetes.  
 
-### Articles & Blog Posts
+### Articles and Blog Posts
 
 Community-authored content covering use cases, deep-dives, and technical walkthroughs:
 
 *Contributions are welcome!*
 
-### Talks & Presentations
+### Talks and Presentations
 
 Conference talks, meetup sessions, and webinars featuring Strimzi:
 
-*Contributions are welcome!*
+- *[Strimzi Presentations](https://strimzi.io/presentations/)* - The official Strimzi page with demos and presentations.
 
-### Libraries & SDKs
+### Libraries and SDKs
 
 Community-supported code helping integrate or extend Strimzi/Kafka:
 
 *Contributions are welcome!*
 
-### Tools & Utilities
+### Tools and Utilities
 
-Command-line tools, dashboards, configuration utilities, etc.:
+Command-line tools, dashboards, configuration utilities:
 
 *Contributions are welcome!*
 
 ### Integrations
 
-How Strimzi works alongside other platforms, frameworks, or tools:
+How Strimzi works alongside other platforms, frameworks, and tools:
 
 *Contributions are welcome!*
 
-### Community Examples & Demos
+### Community Examples and Demos
 
-Real-world setups, proofs-of-concept, sample projects demonstrating Strimzi in action:
+Real-world setups, proofs of concept, and sample projects demonstrating Strimzi in action:
 
 *Contributions are welcome!*
 
-### Learning & Tutorials
+### Learning and Tutorials
 
-Structured and guided resources for learning Strimzi, workshops, and self-paced tutorials:
+Workshops, self-paced tutorials, and other structured learning resources for Strimzi:
 
 *Contributions are welcome!*
 
