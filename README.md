@@ -57,6 +57,8 @@ Command-line tools, dashboards, configuration utilities:
 
 *Contributions are welcome!*
 
+- *[ca-controller-for-strimzi](https://github.com/sebastiangaiser/ca-controller-for-strimzi)* - Creates Strimzi conform Kubernetes secrets from Kubernetes TLS secrets (e.g. created via cert-manager)
+
 ### Integrations
 
 How Strimzi works alongside other platforms, frameworks, and tools:
