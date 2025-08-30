@@ -80,7 +80,7 @@ Real-world setups, proofs of concept, and sample projects demonstrating Strimzi 
 
 Workshops, self-paced tutorials, and other structured learning resources for Strimzi:
 
-*Contributions are welcome!*
+- *[Strimzi Debugging](https://github.com/fvaleri/strimzi-debugging)* - A series of debugging sessions for Strimzi.
 
 ## Contributing
 
