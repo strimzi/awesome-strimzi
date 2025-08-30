@@ -44,18 +44,23 @@ Community-authored content covering use cases, deep-dives, and technical walkthr
 Conference talks, meetup sessions, and webinars featuring Strimzi:
 
 - *[Strimzi Presentations](https://strimzi.io/presentations/)* - The official Strimzi page with demos and presentations.
+- *[Autoscaling Apache Kafka with Strimzi](https://github.com/scholzj/demo-autoscaling-apache-kafka-with-strimzi)* - Demo showing how to configure autoscaling of Strimzi-based Apache Kafka clusters
 
 ### Libraries and SDKs
 
 Community-supported code helping integrate or extend Strimzi/Kafka:
 
-*Contributions are welcome!*
+- *[Strimzi Golang API](https://github.com/scholzj/strimzi-go)* - Golang API for managing Strimzi custom resources from Go-based applications
 
 ### Tools and Utilities
 
 Command-line tools, dashboards, configuration utilities:
 
-*Contributions are welcome!*
+- *[Keksposé](https://github.com/scholzj/kekspose)* - Exposes your Strimzi-based Apache Kafka cluster using port-forwarding outside your Minikube, Kind, or Docker Desktop Kubernetes environment
+- *[Strimzi Shutdown](https://github.com/scholzj/strimzi-shutdown)* - Simple utility to temporarily stop or restart your Strimzi-based Apache Kafka cluster that can be used from command line or as a scheduled job
+- *[Strimzi Backup](https://github.com/scholzj/strimzi-backup)* - Utility to back or restore Strimzi-based Apache Kafka and Connect clusters
+- *[Strimzi Compose Up](https://github.com/scholzj/strimzi-compose-up)* - Run Apache Kafka cluster using the Docker Compose tool with Strimzi container images
+- *[Zoo Entrance](https://github.com/scholzj/zoo-entrance)* - Proxy for opening direct connections to Apache ZooKeeper inside a Strimzi-based Apache Kafka cluster
 
 - *[ca-controller-for-strimzi](https://github.com/sebastiangaiser/ca-controller-for-strimzi)* - Creates Strimzi conform Kubernetes secrets from Kubernetes TLS secrets (e.g. created via cert-manager)
 
@@ -69,13 +74,15 @@ How Strimzi works alongside other platforms, frameworks, and tools:
 
 Real-world setups, proofs of concept, and sample projects demonstrating Strimzi in action:
 
-*Contributions are welcome!*
+- *[Strimzi API examples](https://github.com/scholzj/strimzi-api-examples)* - Examples of how to use the Strimzi API from your Java applications
+- *[Custom Principal Builder](https://github.com/scholzj/custom-strimzi-principal-builder)* - Example of a custom Apache Kafka principal builder that can be used with Strimzi
+- *[Custom Strimzi Pod Security provider](https://github.com/scholzj/custom-pod-security-providers)* - Example of a custom Strimzi Pod Security Provider that can beused to customize the security contexts of Strimzi-managed Pods
 
 ### Learning and Tutorials
 
 Workshops, self-paced tutorials, and other structured learning resources for Strimzi:
 
-*Contributions are welcome!*
+- *[Strimzi Debugging](https://github.com/fvaleri/strimzi-debugging)* - A series of debugging sessions for Strimzi.
 
 ## Contributing
 
