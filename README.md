@@ -61,7 +61,6 @@ Command-line tools, dashboards, configuration utilities:
 - *[Strimzi Backup](https://github.com/scholzj/strimzi-backup)* - Utility to back or restore Strimzi-based Apache Kafka and Connect clusters
 - *[Strimzi Compose Up](https://github.com/scholzj/strimzi-compose-up)* - Run Apache Kafka cluster using the Docker Compose tool with Strimzi container images
 - *[Zoo Entrance](https://github.com/scholzj/zoo-entrance)* - Proxy for opening direct connections to Apache ZooKeeper inside a Strimzi-based Apache Kafka cluster
-
 - *[ca-controller-for-strimzi](https://github.com/sebastiangaiser/ca-controller-for-strimzi)* - Creates Strimzi conform Kubernetes secrets from Kubernetes TLS secrets (e.g. created via cert-manager)
 
 ### Integrations
