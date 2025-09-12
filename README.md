@@ -62,6 +62,7 @@ Command-line tools, dashboards, configuration utilities:
 - *[Strimzi Compose Up](https://github.com/scholzj/strimzi-compose-up)* - Run Apache Kafka cluster using the Docker Compose tool with Strimzi container images
 - *[Zoo Entrance](https://github.com/scholzj/zoo-entrance)* - Proxy for opening direct connections to Apache ZooKeeper inside a Strimzi-based Apache Kafka cluster
 - *[ca-controller-for-strimzi](https://github.com/sebastiangaiser/ca-controller-for-strimzi)* - Creates Strimzi conform Kubernetes secrets from Kubernetes TLS secrets (e.g. created via cert-manager)
+- *[Streamshub-console](https://github.com/streamshub/console)* - Web application designed to facilitate interactions with Apache Kafka leveraging Strimzi operator custom resources.
 
 ### Integrations
 
