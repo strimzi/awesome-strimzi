@@ -68,7 +68,7 @@ Command-line tools, dashboards, configuration utilities:
 
 How Strimzi works alongside other platforms, frameworks, and tools:
 
-- *[Strimzi Headlamp Plugin](https://github.com/cesaroangelo/strimzi-headlamp)* - A Headlamp plugin for managing Strimzi resources (Kafka clusters, topics, users) directly from the Headlamp Kubernetes UI
+- *[Strimzi Headlamp Plugin](https://github.com/cesaroangelo/strimzi-headlamp)* - A Headlamp plugin for managing Strimzi resources (Kafka clusters, topics, users) directly from the Headlamp Kubernetes UI ([demo](https://www.youtube.com/watch?v=MNt28s6b5d8))
 
 ### Community Examples and Demos
 
