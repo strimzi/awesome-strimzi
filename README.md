@@ -64,6 +64,7 @@ Command-line tools, dashboards, configuration utilities:
 - *[ca-controller-for-strimzi](https://github.com/sebastiangaiser/ca-controller-for-strimzi)* - Creates Strimzi conform Kubernetes secrets from Kubernetes TLS secrets (e.g. created via cert-manager)
 - *[Streamshub-console](https://github.com/streamshub/console)* - Web application designed to facilitate interactions with Apache Kafka leveraging Strimzi operator custom resources.
 - *[KubeStellar Console](https://github.com/kubestellar/console)* - Multi-cluster Kubernetes dashboard with a guided [Strimzi install mission](https://github.com/kubestellar/console-kb/blob/master/solutions/cncf-install/install-strimzi.json)
+- *[StreamsHub MCP](https://github.com/streamshub/streamshub-mcp)* - Model Context Protocol server that enables AI assistants to monitor, diagnose, and troubleshoot Strimzi-based Apache Kafka clusters on Kubernetes
 
 ### Integrations
 
