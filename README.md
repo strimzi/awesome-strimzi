@@ -66,6 +66,7 @@ Command-line tools, dashboards, configuration utilities:
 - *[KubeStellar Console](https://github.com/kubestellar/console)* - Multi-cluster Kubernetes dashboard with a guided [Strimzi install mission](https://github.com/kubestellar/console-kb/blob/master/solutions/cncf-install/install-strimzi.json)
 - *[StreamsHub MCP](https://github.com/streamshub/streamshub-mcp)* - Model Context Protocol server that enables AI assistants to monitor, diagnose, and troubleshoot Strimzi-based Apache Kafka clusters on Kubernetes
 - *[Strimzi Kafka CLI](https://github.com/SystemCraftsman/strimzi-kafka-cli)* - Command line interface and MCP server for managing Strimzi-based Apache Kafka clusters on Kubernetes. 30+ tools for clusters, topics, users, connectors, MirrorMaker2, and node pools. ([website](https://strimzi-cli.dev))
+- *[Kafka Canary](https://github.com/taekjaskyli/kafka-canary)* - Actively maintained fork of the archived Strimzi Canary for end-to-end Kafka health and latency monitoring
 
 ### Integrations
 
